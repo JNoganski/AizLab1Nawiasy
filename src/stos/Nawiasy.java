@@ -2,7 +2,7 @@ package stos;
 
 import java.util.ArrayDeque;
 import java.util.Deque;
-
+//push test
 public class Nawiasy {
      static boolean sprawdzNawiasy(String dane){
         Deque<Character> stos = new ArrayDeque<>();
